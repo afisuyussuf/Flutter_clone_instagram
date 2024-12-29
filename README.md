@@ -1,6 +1,10 @@
 # instagram
 
-A new Flutter project.
+Flutter Tutorial Français: Créer Le Design d'Instagram Avec Flutter
+
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 ## Getting Started
 
